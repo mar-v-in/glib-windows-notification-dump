@@ -1,1 +1,3 @@
 # glib-windows-notification-dump
+
+Really, this is just me dumping broken files...
